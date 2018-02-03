@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/jbruch/ui-test-demo#readme",
   "dependencies": {
-    "nightwatch": "^0.9.19"
+    "chromedriver": "^2.35.0",
+    "nightwatch": "^0.9.19",
+    "selenium-server": "^3.8.1"
   }
 }
