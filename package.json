@@ -1,0 +1,25 @@
+{
+  "name": "ui-test-demo",
+  "version": "1.0.0",
+  "description": "demo test suite for ui automation using nightwatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbruch/ui-test-demo.git"
+  },
+  "keywords": [
+    "nightwatch"
+  ],
+  "author": "Jarrod Bruch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbruch/ui-test-demo/issues"
+  },
+  "homepage": "https://github.com/jbruch/ui-test-demo#readme",
+  "dependencies": {
+    "nightwatch": "^0.9.19"
+  }
+}
